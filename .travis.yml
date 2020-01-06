@@ -1,0 +1,26 @@
+language: node_js
+
+addons:
+  apt:
+    packages:
+      - fonts-noto
+      - fonts-noto-*
+
+node_js: lts/erbium
+
+git:
+  depth: 1
+  quiet: true
+
+install:
+  - npm install
+before_script:
+  - npm test
+script:
+  - npm start
+after_success:
+  - git add docs
+  - git commit -m 'Crawled'
+  - git push https://${GITHUB_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:${TRAVIS_BRANCH}
+
+cache: npm

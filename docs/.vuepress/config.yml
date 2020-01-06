@@ -1,0 +1,7 @@
+title: Pikachu Surf
+description: All about Pokemon
+
+themeConfig:
+  navbar: false
+  sidebar: false
+  search: false
