@@ -1,6 +1,8 @@
 ---
 home: true
 ---
+- [宝可梦直播会1月9日公开](8d6755184ceb1d1eacbaae6c1d0331cb2e14f4d8)
+- [Pokémon Direct to air on 9th January](c6215ca0d71ce01be035cd8d3cea4745a4ca5d7c)
 - [宝可梦 剑／盾动画新作「破晓之翼」1月公开](a7fa14f81b19fdec174338994c0928b19f598053)
 - [VGC 2020 rules have been updated for Sword and Shield: These new rules will be used from 4 ...](9c34afb07d5436ebd03465d26c284a3b246d1ee8)
 - [Pokémon Global Link to shut down in February: Munna to be given away as a special thank you ...](499f71e42da5ad31bc8448f3ee48bb1768f3574c)
@@ -9,5 +11,3 @@ home: true
 - [New items and mechanics revealed for Pokémon Sword &amp;amp; Shield](d787515e15c35f3bf479cf89935683be71b70761)
 - [Gigantamax forms officially revealed](a723c734da4fdfa41f1d27abb2f3451d331d1b2f)
 - [Gigantamax forms revealed in CoroCoro](c6b47d0fec80533aa47ff0f5f37f7d678b7f4486)
-- [Pokémon GO Halloween &amp;amp; Regigigas events announced](bb8a8d8e704527f928079774497e32b8357c3aac)
-- [小火马（伽勒尔的样子）公开](56f91dc0e7f1f2b86a0dd2e56567e12168dec7b7)
