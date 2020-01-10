@@ -1,6 +1,8 @@
 ---
 home: true
 ---
+- [Nintendo Switch 新作「宝可梦不可思议的迷宫 救助队DX」公开](85356912723f32f676996c491e06b3408b34e7bb)
+- [Pokémon Direct announces Pokémon Sword &amp;amp; Shield Expansion Pass](df53cbd1d2c428eeeabdb219924dc34fdb156abe)
 - [宝可梦直播会1月9日公开](8d6755184ceb1d1eacbaae6c1d0331cb2e14f4d8)
 - [Pokémon Direct to air on 9th January](c6215ca0d71ce01be035cd8d3cea4745a4ca5d7c)
 - [宝可梦 剑／盾动画新作「破晓之翼」1月公开](a7fa14f81b19fdec174338994c0928b19f598053)
@@ -9,5 +11,3 @@ home: true
 - [Pokémon Sword and Shield released!](defd5ad101f6cecba7e7fd8db408c51fdf035f3b)
 - [Japanese trailer officially reveals Mr. Rime and Runerigus](74b765307d7ff309f838a82c2c725c673b3d3524)
 - [New items and mechanics revealed for Pokémon Sword &amp;amp; Shield](d787515e15c35f3bf479cf89935683be71b70761)
-- [Gigantamax forms officially revealed](a723c734da4fdfa41f1d27abb2f3451d331d1b2f)
-- [Gigantamax forms revealed in CoroCoro](c6b47d0fec80533aa47ff0f5f37f7d678b7f4486)
