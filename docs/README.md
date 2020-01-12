@@ -1,7 +1,9 @@
 ---
 home: true
 ---
+- [Pokémon Mystery Dungeon: Rescue Team DX announced for Nintendo Switch: Demo available now](34aeb62d1c75fae329aa6c78b816c2a67fb87b5a)
 - [Nintendo Switch 新作「宝可梦不可思议的迷宫 救助队DX」公开](85356912723f32f676996c491e06b3408b34e7bb)
+- [Pokémon Sword and Shield Expansion Pass announced: Planned for release June, November](a2e71d51234d8f5220e3ffcaacf6bcbe3b326e28)
 - [Pokémon Direct announces Pokémon Sword &amp;amp; Shield Expansion Pass](df53cbd1d2c428eeeabdb219924dc34fdb156abe)
 - [宝可梦直播会1月9日公开](8d6755184ceb1d1eacbaae6c1d0331cb2e14f4d8)
 - [Pokémon Direct to air on 9th January](c6215ca0d71ce01be035cd8d3cea4745a4ca5d7c)
@@ -9,5 +11,3 @@ home: true
 - [VGC 2020 rules have been updated for Sword and Shield: These new rules will be used from 4 ...](9c34afb07d5436ebd03465d26c284a3b246d1ee8)
 - [Pokémon Global Link to shut down in February: Munna to be given away as a special thank you ...](499f71e42da5ad31bc8448f3ee48bb1768f3574c)
 - [Pokémon Sword and Shield released!](defd5ad101f6cecba7e7fd8db408c51fdf035f3b)
-- [Japanese trailer officially reveals Mr. Rime and Runerigus](74b765307d7ff309f838a82c2c725c673b3d3524)
-- [New items and mechanics revealed for Pokémon Sword &amp;amp; Shield](d787515e15c35f3bf479cf89935683be71b70761)
