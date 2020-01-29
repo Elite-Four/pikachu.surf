@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Pokémon HOME to launch in February](a072da1029ea7eebfe02c1868238ed7f19db5f9c)
 - [Pokémon Mystery Dungeon: Rescue Team DX announced for Nintendo Switch: Demo available now](34aeb62d1c75fae329aa6c78b816c2a67fb87b5a)
 - [Nintendo Switch 新作「宝可梦不可思议的迷宫 救助队DX」公开](85356912723f32f676996c491e06b3408b34e7bb)
 - [Pokémon Sword and Shield Expansion Pass announced: Planned for release June, November](a2e71d51234d8f5220e3ffcaacf6bcbe3b326e28)
@@ -10,4 +11,3 @@ home: true
 - [宝可梦 剑／盾动画新作「破晓之翼」1月公开](a7fa14f81b19fdec174338994c0928b19f598053)
 - [VGC 2020 rules have been updated for Sword and Shield: These new rules will be used from 4 ...](9c34afb07d5436ebd03465d26c284a3b246d1ee8)
 - [Pokémon Global Link to shut down in February: Munna to be given away as a special thank you ...](499f71e42da5ad31bc8448f3ee48bb1768f3574c)
-- [Pokémon Sword and Shield released!](defd5ad101f6cecba7e7fd8db408c51fdf035f3b)
