@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Silhouette of new mythical Pokémon shown in CoroCoro](2ce8697bae46e7f354b8032251be8b54c5e5af37)
 - [Pokémon Day 年度宝可梦投票活动](5381224c26bd3251eba4c630f34bdf737165664e)
 - [Pokémon Day celebrations revealed](0890f9fa7cf4c284258b9b2fae6b2d67fccd4e4e)
 - [New mythical Pokémon to be revealed on Pokémon Day 2020](3a0b3754ab550b551a755bc3f3222f4794386c32)
@@ -10,4 +11,3 @@ home: true
 - [Pokémon Sword and Shield Expansion Pass announced: Planned for release June, November](a2e71d51234d8f5220e3ffcaacf6bcbe3b326e28)
 - [Pokémon Direct announces Pokémon Sword &amp;amp; Shield Expansion Pass](df53cbd1d2c428eeeabdb219924dc34fdb156abe)
 - [宝可梦直播会1月9日公开](8d6755184ceb1d1eacbaae6c1d0331cb2e14f4d8)
-- [Pokémon Direct to air on 9th January](c6215ca0d71ce01be035cd8d3cea4745a4ca5d7c)
