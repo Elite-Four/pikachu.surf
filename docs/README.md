@@ -2,6 +2,7 @@
 home: true
 ---
 - [Pokémon Day 票选结果 &amp;#038; 新幻之宝可梦公开](f372b750f0dfe4236aeda32567d9a0a99188f203)
+- [New Mythical Pokémon Zarude revealed: To appear in upcoming movie](0dcdeb57644b76341632e0f5c7e998531de0090b)
 - [「超梦的逆袭：进化」Netflix 播出](ea8cff95853a05539d8b9da732b27a3bea674ec1)
 - [Pokémon of the Year results announced and Zarude revealed](757422101a104d8c1743cfbf51f287116529e9f8)
 - [Pokémon HOME 上线](e62fccfbe06756b57eddbfa1a4f4783d674591a7)
@@ -10,4 +11,3 @@ home: true
 - [Pokémon Day celebrations revealed](0890f9fa7cf4c284258b9b2fae6b2d67fccd4e4e)
 - [New mythical Pokémon to be revealed on Pokémon Day 2020](3a0b3754ab550b551a755bc3f3222f4794386c32)
 - [Pokémon HOME to launch in February](a072da1029ea7eebfe02c1868238ed7f19db5f9c)
-- [Pokémon Mystery Dungeon: Rescue Team DX announced for Nintendo Switch: Demo available now](34aeb62d1c75fae329aa6c78b816c2a67fb87b5a)
