@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Gigantamax starters revealed in new Sword&#x2F;Shield Expansion Pass trailer](3d8c2d637a622c81bcc93d1107de5678f14e7647)
 - [「剧场版宝可梦 可可」最新预告片公开](ca4ea881430951627b6db2a3c84a7f7fa29d74d0)
 - [Pokémon Day 票选结果 &amp;#038; 新幻之宝可梦公开](f372b750f0dfe4236aeda32567d9a0a99188f203)
 - [New Mythical Pokémon Zarude revealed: To appear in upcoming movie](0dcdeb57644b76341632e0f5c7e998531de0090b)
@@ -10,4 +11,3 @@ home: true
 - [Silhouette of new mythical Pokémon shown in CoroCoro](2ce8697bae46e7f354b8032251be8b54c5e5af37)
 - [Pokémon Day 年度宝可梦投票活动](5381224c26bd3251eba4c630f34bdf737165664e)
 - [Pokémon Day celebrations revealed](0890f9fa7cf4c284258b9b2fae6b2d67fccd4e4e)
-- [New mythical Pokémon to be revealed on Pokémon Day 2020](3a0b3754ab550b551a755bc3f3222f4794386c32)
