@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Galarian Forms with hidden abilities available via Mystery Gift](a30f2084820dde25eb6f4a0b1d28364374f4228f)
 - [Pokémon Rumble Rush ending service July 22: Mobile game to shut down after one year](c2372338d8adfd390ceef8244ef6ba2353992a11)
 - [Signature move for Zarude revealed](be2e0c37327236d74bdb52acb930fddd0a549d84)
 - [Gigantamax starters revealed in new Sword&#x2F;Shield Expansion Pass trailer](3d8c2d637a622c81bcc93d1107de5678f14e7647)
@@ -10,4 +11,3 @@ home: true
 - [「超梦的逆袭：进化」Netflix 播出](ea8cff95853a05539d8b9da732b27a3bea674ec1)
 - [Pokémon of the Year results announced and Zarude revealed](757422101a104d8c1743cfbf51f287116529e9f8)
 - [Pokémon HOME 上线](e62fccfbe06756b57eddbfa1a4f4783d674591a7)
-- [Silhouette of new mythical Pokémon shown in CoroCoro](2ce8697bae46e7f354b8032251be8b54c5e5af37)
