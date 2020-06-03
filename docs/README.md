@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [New trailer for Sword &amp;amp; Shield DLC reveals Galarian Slowbro](0c377444c9aa249cc1a9bb01f5668d86941835d8)
 - [宝可梦 剑／盾 扩展票最新资讯6月2日公开](1f766e4fb0e4795bc93934e58369d3ac83fa2fd4)
 - [Galarian Forms with hidden abilities available via Mystery Gift](a30f2084820dde25eb6f4a0b1d28364374f4228f)
 - [Pokémon Rumble Rush ending service July 22: Mobile game to shut down after one year](c2372338d8adfd390ceef8244ef6ba2353992a11)
@@ -10,4 +11,3 @@ home: true
 - [Pokémon Day 票选结果 &amp;#038; 新幻之宝可梦公开](f372b750f0dfe4236aeda32567d9a0a99188f203)
 - [New Mythical Pokémon Zarude revealed: To appear in upcoming movie](0dcdeb57644b76341632e0f5c7e998531de0090b)
 - [「超梦的逆袭：进化」Netflix 播出](ea8cff95853a05539d8b9da732b27a3bea674ec1)
-- [Pokémon of the Year results announced and Zarude revealed](757422101a104d8c1743cfbf51f287116529e9f8)
