@@ -1,6 +1,8 @@
 ---
 home: true
 ---
+- [破晓之翼第5集「秘书」公开](18dabd9a98720d1ddba2b7ed3bef46a2c76be820)
+- [宝可梦 剑／盾 扩展票 最新消息公开](574bce098941bacd19a14f4b596aa9edd441d6af)
 - [New trailer for Sword &amp;amp; Shield DLC reveals Galarian Slowbro](0c377444c9aa249cc1a9bb01f5668d86941835d8)
 - [宝可梦 剑／盾 扩展票最新资讯6月2日公开](1f766e4fb0e4795bc93934e58369d3ac83fa2fd4)
 - [Galarian Forms with hidden abilities available via Mystery Gift](a30f2084820dde25eb6f4a0b1d28364374f4228f)
@@ -9,5 +11,3 @@ home: true
 - [Gigantamax starters revealed in new Sword&#x2F;Shield Expansion Pass trailer](3d8c2d637a622c81bcc93d1107de5678f14e7647)
 - [「剧场版宝可梦 可可」最新预告片公开](ca4ea881430951627b6db2a3c84a7f7fa29d74d0)
 - [Pokémon Day 票选结果 &amp;#038; 新幻之宝可梦公开](f372b750f0dfe4236aeda32567d9a0a99188f203)
-- [New Mythical Pokémon Zarude revealed: To appear in upcoming movie](0dcdeb57644b76341632e0f5c7e998531de0090b)
-- [「超梦的逆袭：进化」Netflix 播出](ea8cff95853a05539d8b9da732b27a3bea674ec1)
