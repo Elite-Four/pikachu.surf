@@ -1,6 +1,8 @@
 ---
 home: true
 ---
+- [The Sword &amp;amp; Shield Expansion Pass has been released!](2e4cec1c0e1930c866217ab4d4300a2f765a0542)
+- [Pokémon Presents reveals several new games](ff3abb386df5728d3090573b954f5582bdc3e5fd)
 - [宝可梦新作发表会6月17日公开](1ffb3c26867100c112f01cfeecedbde94d3a8d87)
 - [宝可梦卡通「滑滑小子与谜拟Ｑ」公开](631d3739d809f6712ce675dab3536a2affb7001c)
 - [破晓之翼第5集「秘书」公开](18dabd9a98720d1ddba2b7ed3bef46a2c76be820)
@@ -9,5 +11,3 @@ home: true
 - [宝可梦 剑／盾 扩展票最新资讯6月2日公开](1f766e4fb0e4795bc93934e58369d3ac83fa2fd4)
 - [Galarian Forms with hidden abilities available via Mystery Gift](a30f2084820dde25eb6f4a0b1d28364374f4228f)
 - [Pokémon Rumble Rush ending service July 22: Mobile game to shut down after one year](c2372338d8adfd390ceef8244ef6ba2353992a11)
-- [Signature move for Zarude revealed](be2e0c37327236d74bdb52acb930fddd0a549d84)
-- [Gigantamax starters revealed in new Sword&#x2F;Shield Expansion Pass trailer](3d8c2d637a622c81bcc93d1107de5678f14e7647)
