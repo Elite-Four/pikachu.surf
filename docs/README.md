@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [The Crown Tundra now available!](983906561a0b365403ac41af803de741d1b72536)
 - [New trailer for The Crown Tundra](43a23e302282071e04cfa7fb592f064452022067)
 - [New game &amp;quot;Pokémon Unite&amp;quot; revealed](bafc4dff9d88439766a6e1507fe285dbbbfae47a)
 - [The Sword &amp;amp; Shield Expansion Pass has been released!](2e4cec1c0e1930c866217ab4d4300a2f765a0542)
@@ -10,4 +11,3 @@ home: true
 - [破晓之翼第5集「秘书」公开](18dabd9a98720d1ddba2b7ed3bef46a2c76be820)
 - [宝可梦 剑／盾 扩展票 最新消息公开](574bce098941bacd19a14f4b596aa9edd441d6af)
 - [New trailer for Sword &amp;amp; Shield DLC reveals Galarian Slowbro](0c377444c9aa249cc1a9bb01f5668d86941835d8)
-- [宝可梦 剑／盾 扩展票最新资讯6月2日公开](1f766e4fb0e4795bc93934e58369d3ac83fa2fd4)
