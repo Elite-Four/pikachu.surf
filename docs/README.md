@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [New video officially reveals Glastrier &amp;amp; Spectrier](b3d8664fe9738beed969982e6aef031ebc4f417b)
 - [The Crown Tundra now available!](983906561a0b365403ac41af803de741d1b72536)
 - [New trailer for The Crown Tundra](43a23e302282071e04cfa7fb592f064452022067)
 - [New game &amp;quot;Pokémon Unite&amp;quot; revealed](bafc4dff9d88439766a6e1507fe285dbbbfae47a)
@@ -10,4 +11,3 @@ home: true
 - [宝可梦卡通「滑滑小子与谜拟Ｑ」公开](631d3739d809f6712ce675dab3536a2affb7001c)
 - [破晓之翼第5集「秘书」公开](18dabd9a98720d1ddba2b7ed3bef46a2c76be820)
 - [宝可梦 剑／盾 扩展票 最新消息公开](574bce098941bacd19a14f4b596aa9edd441d6af)
-- [New trailer for Sword &amp;amp; Shield DLC reveals Galarian Slowbro](0c377444c9aa249cc1a9bb01f5668d86941835d8)
