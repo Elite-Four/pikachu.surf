@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Pokémon GO announces &#39;GO Beyond&#39; with Seasons and Gen 6 Pokémon](b84a812dd62d9fef9beb319eb9f427c867f0f726)
 - [New video officially reveals Glastrier &amp;amp; Spectrier](b3d8664fe9738beed969982e6aef031ebc4f417b)
 - [The Crown Tundra now available!](983906561a0b365403ac41af803de741d1b72536)
 - [New trailer for The Crown Tundra](43a23e302282071e04cfa7fb592f064452022067)
@@ -10,4 +11,3 @@ home: true
 - [宝可梦新作发表会6月17日公开](1ffb3c26867100c112f01cfeecedbde94d3a8d87)
 - [宝可梦卡通「滑滑小子与谜拟Ｑ」公开](631d3739d809f6712ce675dab3536a2affb7001c)
 - [破晓之翼第5集「秘书」公开](18dabd9a98720d1ddba2b7ed3bef46a2c76be820)
-- [宝可梦 剑／盾 扩展票 最新消息公开](574bce098941bacd19a14f4b596aa9edd441d6af)
