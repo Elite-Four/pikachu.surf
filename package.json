@@ -17,7 +17,7 @@
   "homepage": "https://github.com/Elite-Four/pikachu.surf",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "debug": "^4.1.1",
     "gray-matter": "^4.0.2",
     "htmlparser2": "^4.0.0",
