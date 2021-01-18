@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [New 宝可梦随乐拍 4月30日发售](a1231e8578e495a0734625ef8ab4e549ccf6fd47)
 - [Pokémon launches 25th anniversary celebrations](260bfcff73538ebab0e283d1fe1f758032709e5e)
 - [Pokémon GO announces &#39;GO Beyond&#39; with Seasons and Gen 6 Pokémon](b84a812dd62d9fef9beb319eb9f427c867f0f726)
 - [New video officially reveals Glastrier &amp;amp; Spectrier](b3d8664fe9738beed969982e6aef031ebc4f417b)
@@ -10,4 +11,3 @@ home: true
 - [The Sword &amp;amp; Shield Expansion Pass has been released!](2e4cec1c0e1930c866217ab4d4300a2f765a0542)
 - [Pokémon Presents reveals several new games](ff3abb386df5728d3090573b954f5582bdc3e5fd)
 - [宝可梦新作发表会6月17日公开](1ffb3c26867100c112f01cfeecedbde94d3a8d87)
-- [宝可梦卡通「滑滑小子与谜拟Ｑ」公开](631d3739d809f6712ce675dab3536a2affb7001c)
