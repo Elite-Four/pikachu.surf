@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [宝可梦发表会8月18日公开](ed95669aa6dc0a4c3b98985e428843ee84e416e8)
 - [「New 宝可梦随乐拍」8月4日免费更新](41b4f5d70a35a1fed184828c08b2681c3e5cdfde)
 - [New games announced: Pokémon Brilliant Diamond, Shining Pearl and Pokémon Legends: Arceus](5cf21967fe0bfc03dbbfa435fe26fd00b4d391b1)
 - [宝可梦新作发表会 2021.2.27 公开](00aef9800834fd6e9b36109efd868bf6d2f60352)
@@ -10,4 +11,3 @@ home: true
 - [New video officially reveals Glastrier &amp;amp; Spectrier](b3d8664fe9738beed969982e6aef031ebc4f417b)
 - [The Crown Tundra now available!](983906561a0b365403ac41af803de741d1b72536)
 - [New trailer for The Crown Tundra](43a23e302282071e04cfa7fb592f064452022067)
-- [New game &amp;quot;Pokémon Unite&amp;quot; revealed](bafc4dff9d88439766a6e1507fe285dbbbfae47a)
