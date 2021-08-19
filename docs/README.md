@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [New information on BDSP and Legends: Arceus](a8c0dd4a7e2863b98613276dc5cff1d59ae4d48f)
 - [宝可梦发表会8月18日公开](ed95669aa6dc0a4c3b98985e428843ee84e416e8)
 - [「New 宝可梦随乐拍」8月4日免费更新](41b4f5d70a35a1fed184828c08b2681c3e5cdfde)
 - [New games announced: Pokémon Brilliant Diamond, Shining Pearl and Pokémon Legends: Arceus](5cf21967fe0bfc03dbbfa435fe26fd00b4d391b1)
@@ -10,4 +11,3 @@ home: true
 - [Pokémon GO announces &#39;GO Beyond&#39; with Seasons and Gen 6 Pokémon](b84a812dd62d9fef9beb319eb9f427c867f0f726)
 - [New video officially reveals Glastrier &amp;amp; Spectrier](b3d8664fe9738beed969982e6aef031ebc4f417b)
 - [The Crown Tundra now available!](983906561a0b365403ac41af803de741d1b72536)
-- [New trailer for The Crown Tundra](43a23e302282071e04cfa7fb592f064452022067)
