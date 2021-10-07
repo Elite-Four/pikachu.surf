@@ -1,6 +1,8 @@
 ---
 home: true
 ---
+- [宝可梦传说 阿尔宙斯 新讯之壹 影片公开](a2be731c7d87747fa60f4f3f1c612aac6f5a024f)
+- [宝可梦 晶灿钻石／明亮珍珠 NEWS #01 影片公开](4c2d6d97e91aebc3767f04042dca3e285d3415e8)
 - [New trailers for BDSP &amp;amp; Legends: Arceus reveal Pokétch &amp;amp; Noble Pokémon](1803b2d923992cc438e4ad85248595d45e26e7cc)
 - [New information on BDSP and Legends: Arceus](a8c0dd4a7e2863b98613276dc5cff1d59ae4d48f)
 - [宝可梦发表会8月18日公开](ed95669aa6dc0a4c3b98985e428843ee84e416e8)
@@ -9,5 +11,3 @@ home: true
 - [宝可梦新作发表会 2021.2.27 公开](00aef9800834fd6e9b36109efd868bf6d2f60352)
 - [New 宝可梦随乐拍 4月30日发售](a1231e8578e495a0734625ef8ab4e549ccf6fd47)
 - [Pokémon launches 25th anniversary celebrations](260bfcff73538ebab0e283d1fe1f758032709e5e)
-- [Pokémon GO announces &#39;GO Beyond&#39; with Seasons and Gen 6 Pokémon](b84a812dd62d9fef9beb319eb9f427c867f0f726)
-- [New video officially reveals Glastrier &amp;amp; Spectrier](b3d8664fe9738beed969982e6aef031ebc4f417b)
