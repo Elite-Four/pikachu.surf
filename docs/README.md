@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [宝可梦 晶灿钻石／明亮珍珠 NEWS #02 影片公开](e8622677c5d7e01f728b0c6fab1a6e128540cbb5)
 - [New trailers for BDSP &amp;amp; Legends: Arceus](1225a21638a968b77f81f1fc993fda6da587278a)
 - [洗翠地区的索罗亚与索罗亚克公开](4df8b3eed9dc8bdb77f61db820da0a0b1b7f82c3)
 - [Hisuian forms of Zorua &amp;amp; Zoroark revealed](e81fa8845543c108fce30b39c4485284c03aabe4)
@@ -10,4 +11,3 @@ home: true
 - [New trailers for BDSP &amp;amp; Legends: Arceus reveal Pokétch &amp;amp; Noble Pokémon](1803b2d923992cc438e4ad85248595d45e26e7cc)
 - [New information on BDSP and Legends: Arceus](a8c0dd4a7e2863b98613276dc5cff1d59ae4d48f)
 - [宝可梦发表会8月18日公开](ed95669aa6dc0a4c3b98985e428843ee84e416e8)
-- [「New 宝可梦随乐拍」8月4日免费更新](41b4f5d70a35a1fed184828c08b2681c3e5cdfde)
