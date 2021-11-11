@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Ramanas Park revealed for Brilliant Diamond &amp;amp; Shining Pearl](3bf92e28d7d1000419310542b17a127304e8148a)
 - [宝可梦传说 阿尔宙斯 新讯之贰 影片公开](ae46412c48bd62f7690119ad95b7da55377d6365)
 - [宝可梦 晶灿钻石／明亮珍珠 NEWS #02 影片公开](e8622677c5d7e01f728b0c6fab1a6e128540cbb5)
 - [New trailers for BDSP &amp;amp; Legends: Arceus](1225a21638a968b77f81f1fc993fda6da587278a)
@@ -10,4 +11,3 @@ home: true
 - [宝可梦传说 阿尔宙斯 新讯之壹 影片公开](a2be731c7d87747fa60f4f3f1c612aac6f5a024f)
 - [宝可梦 晶灿钻石／明亮珍珠 NEWS #01 影片公开](4c2d6d97e91aebc3767f04042dca3e285d3415e8)
 - [New trailers for BDSP &amp;amp; Legends: Arceus reveal Pokétch &amp;amp; Noble Pokémon](1803b2d923992cc438e4ad85248595d45e26e7cc)
-- [New information on BDSP and Legends: Arceus](a8c0dd4a7e2863b98613276dc5cff1d59ae4d48f)
