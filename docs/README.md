@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Hisuian Voltorb revealed for Legends: Arceus](8a92b297b099bfbea02cd4b23982313bf92f3972)
 - [晶钻明珠神秘礼物「宝可梦的石像」](6bf9e33a4a4ea7a267fc474b81a6ecbcada1a3a7)
 - [Ramanas Park revealed for Brilliant Diamond &amp;amp; Shining Pearl](3bf92e28d7d1000419310542b17a127304e8148a)
 - [宝可梦传说 阿尔宙斯 新讯之贰 影片公开](ae46412c48bd62f7690119ad95b7da55377d6365)
@@ -10,4 +11,3 @@ home: true
 - [Hisuian forms of Zorua &amp;amp; Zoroark revealed](e81fa8845543c108fce30b39c4485284c03aabe4)
 - [日本环球影城与宝可梦达成合作](79d34a7c4a097f7782be7bf5cae2c8a806fde554)
 - [宝可梦传说 阿尔宙斯 新讯之壹 影片公开](a2be731c7d87747fa60f4f3f1c612aac6f5a024f)
-- [宝可梦 晶灿钻石／明亮珍珠 NEWS #01 影片公开](4c2d6d97e91aebc3767f04042dca3e285d3415e8)
