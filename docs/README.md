@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Diamond &amp;amp; Pearl Clan revealed for Pokémon Legends: Arceus](c37bdd6ac563705464c9bfe966a2527d92892f3d)
 - [Hisuian Voltorb revealed for Legends: Arceus](8a92b297b099bfbea02cd4b23982313bf92f3972)
 - [晶钻明珠神秘礼物「宝可梦的石像」](6bf9e33a4a4ea7a267fc474b81a6ecbcada1a3a7)
 - [Ramanas Park revealed for Brilliant Diamond &amp;amp; Shining Pearl](3bf92e28d7d1000419310542b17a127304e8148a)
@@ -10,4 +11,3 @@ home: true
 - [洗翠地区的索罗亚与索罗亚克公开](4df8b3eed9dc8bdb77f61db820da0a0b1b7f82c3)
 - [Hisuian forms of Zorua &amp;amp; Zoroark revealed](e81fa8845543c108fce30b39c4485284c03aabe4)
 - [日本环球影城与宝可梦达成合作](79d34a7c4a097f7782be7bf5cae2c8a806fde554)
-- [宝可梦传说 阿尔宙斯 新讯之壹 影片公开](a2be731c7d87747fa60f4f3f1c612aac6f5a024f)
