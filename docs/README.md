@@ -1,13 +1,13 @@
 ---
 home: true
 ---
+- [寶可夢亞洲對戰嘉年華「神奧歡樂對戰大賽」開啟報名](0c8049b04c5127be8908f2fc5d140732d93d2557)
+- [Nintendo Switch 《寶可夢傳說 阿爾宙斯》介紹影片公開](b7aa6074a972230d14bd2d5d6da6bbf2998e15cd)
+- [HORI《寶可夢傳說 阿爾宙斯》系列Nintendo Switch周邊商品上市](492b07260be1c162b170be6c51fd13f4db6b98df)
+- [《宝可梦：皮卡丘和可可的冒险》于中国大陆各大VOD和IPTV平台上线](2759a47694d04468948f43a76cb0b1504555923d)
+- [智慧型手機版『Pokémon UNITE』在台灣正式上線](ef0769b69eac6722e576218d0664eecb91ac0985)
+- [寶可夢集換式卡牌遊戲 擴充包「星星誕生」繁體中文版即將發售！](732f39a10db9a2775f3530d81308070ccec375f5)
 - [Gameplay Preview for Legends: Arceus released](c209e657be3cca2ead289dad12b78e17a7e5a72b)
 - [Diamond &amp;amp; Pearl Clan revealed for Pokémon Legends: Arceus](c37bdd6ac563705464c9bfe966a2527d92892f3d)
 - [Hisuian Voltorb revealed for Legends: Arceus](8a92b297b099bfbea02cd4b23982313bf92f3972)
 - [晶钻明珠神秘礼物「宝可梦的石像」](6bf9e33a4a4ea7a267fc474b81a6ecbcada1a3a7)
-- [Ramanas Park revealed for Brilliant Diamond &amp;amp; Shining Pearl](3bf92e28d7d1000419310542b17a127304e8148a)
-- [宝可梦传说 阿尔宙斯 新讯之贰 影片公开](ae46412c48bd62f7690119ad95b7da55377d6365)
-- [宝可梦 晶灿钻石／明亮珍珠 NEWS #02 影片公开](e8622677c5d7e01f728b0c6fab1a6e128540cbb5)
-- [New trailers for BDSP &amp;amp; Legends: Arceus](1225a21638a968b77f81f1fc993fda6da587278a)
-- [洗翠地区的索罗亚与索罗亚克公开](4df8b3eed9dc8bdb77f61db820da0a0b1b7f82c3)
-- [Hisuian forms of Zorua &amp;amp; Zoroark revealed](e81fa8845543c108fce30b39c4485284c03aabe4)
