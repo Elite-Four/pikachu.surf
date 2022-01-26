@@ -1,6 +1,7 @@
 ---
 home: true
 ---
+- [Hisuian starter forms hinted at in new Legends: Arceus trailer](a1fd40baf157c08f2091ff45190377b5a1eeb9a4)
 - [寶可夢亞洲對戰嘉年華「神奧歡樂對戰大賽」開啟報名](0c8049b04c5127be8908f2fc5d140732d93d2557)
 - [Nintendo Switch 《寶可夢傳說 阿爾宙斯》介紹影片公開](b7aa6074a972230d14bd2d5d6da6bbf2998e15cd)
 - [HORI《寶可夢傳說 阿爾宙斯》系列Nintendo Switch周邊商品上市](492b07260be1c162b170be6c51fd13f4db6b98df)
@@ -10,4 +11,3 @@ home: true
 - [Gameplay Preview for Legends: Arceus released](c209e657be3cca2ead289dad12b78e17a7e5a72b)
 - [Diamond &amp;amp; Pearl Clan revealed for Pokémon Legends: Arceus](c37bdd6ac563705464c9bfe966a2527d92892f3d)
 - [Hisuian Voltorb revealed for Legends: Arceus](8a92b297b099bfbea02cd4b23982313bf92f3972)
-- [晶钻明珠神秘礼物「宝可梦的石像」](6bf9e33a4a4ea7a267fc474b81a6ecbcada1a3a7)
